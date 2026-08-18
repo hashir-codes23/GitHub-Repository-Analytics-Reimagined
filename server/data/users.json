@@ -1,0 +1,16 @@
+[
+  {
+    "id": "85d9a7f5-9d0f-432f-8520-244672165fcf",
+    "name": "Muhammad Hashir",
+    "email": "hashirbaloch635@gmail.com",
+    "passwordHash": "$2a$10$CgHQQLCpWiE9DK8Zk8Vgbu4ap4iv.LatAVUom65eHeDm4o20XvMby",
+    "createdAt": "2026-08-18T14:31:37.301Z"
+  },
+  {
+    "id": "159b4b0a-bb3b-4cfa-b196-24ce5fa102aa",
+    "name": "hashir",
+    "email": "b23f0400cs131@paf-iast.edu.pk",
+    "passwordHash": "$2a$10$k1RurvB0TzbHHVkMe.gBAu90X/P0FWgSea7d5bA29YcSutUmR39FK",
+    "createdAt": "2026-08-18T14:59:01.079Z"
+  }
+]

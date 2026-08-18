@@ -1,0 +1,18 @@
+{
+  "name": "devpulse",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DevPulse - GitHub Repository Analytics Dashboard (React + Express + JWT Auth)",
+  "scripts": {
+    "install-all": "npm install --prefix server && npm install --prefix client",
+    "dev": "concurrently -n server,client -c yellow,blue \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "build": "npm run build --prefix client",
+    "start": "npm start --prefix server"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.1"
+  },
+  "dependencies": {
+    "all": "^0.0.0"
+  }
+}
