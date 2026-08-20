@@ -12,5 +12,12 @@
     "email": "b23f0400cs131@paf-iast.edu.pk",
     "passwordHash": "$2a$10$k1RurvB0TzbHHVkMe.gBAu90X/P0FWgSea7d5bA29YcSutUmR39FK",
     "createdAt": "2026-08-18T14:59:01.079Z"
+  },
+  {
+    "id": "4e097fcb-d86a-4c70-ad0e-6d8ac60f54bf",
+    "name": "muhammad hashir",
+    "email": "hashirbaloch@gmail.com",
+    "passwordHash": "$2a$10$6tHcv8GOSXq.YRXli.QyheLdVBt6/X.796HgfxpDQQ44LeeTW16ji",
+    "createdAt": "2026-08-20T04:52:25.766Z"
   }
 ]
